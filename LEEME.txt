@@ -1,0 +1,7 @@
+Para correr el demo es necesario correr el script SQL
+Las credenciales de conexión son:
+dbname: 'gameDemo'
+user: 'root'
+pass: ''
+
+se pueden modificar en el archivo www/services/conexion.php
